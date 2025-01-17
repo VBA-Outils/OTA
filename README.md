@@ -12,4 +12,8 @@
 <p>Résultat de la requête</p>
 <table><tr><th>t_ref_cd_departement</th><th>t_ref_lib_departement</th><th>t_ref_nb_hab</th></tr><tr><td>01</td><td>Ain</td><td>352&nbsp;000</td></tr><tr><td>02</td><td>Aisne</td><td>452&nbsp;365</td></tr></table>
 <p>Résultat après exécution de la macro</p>
-<p></p>
+<p>
+|t_ref_cd_departement|t_ref_lib_departement|t_ref_nb_hab|
+|01                  |Ain                  |352000      |
+|02                  |Aisne                |452365      |
+</p>

@@ -14,6 +14,6 @@
 <p>Résultat après exécution de la macro</p>
 <p>
 |t_ref_cd_departement|t_ref_lib_departement|t_ref_nb_hab|<br>
-|01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Ain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|352000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-|02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Aisne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|452365&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|01|Ain|352000|<br>
+|02|Aisne|452365|
 </p>

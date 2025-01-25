@@ -6,7 +6,7 @@
 <h1>Reformater le résultat d'une requête pour les OTA</h1>
 <h2>Installation</h2>
 <p>Importer le module "PressePapiers.bas" dans le projet VBA.<p>
-<p>Cliquer sur le menu "Développeur", puis "Insérer", "Contrôle de formulaire", "Bouton". Placer le bouton sur la feuille souhaitée et lui associer la macro adéquate : OTASquirrel par exemple.<p<
+<p>Cliquer sur le menu "Développeur", puis "Insérer", "Contrôle de formulaire", "Bouton". Placer le bouton sur la feuille souhaitée et lui associer la macro adéquate : OTASquirrel par exemple.<p>
 </p>Copier le résultat de la requête dans le presse-papiers, puis cliquer sur le bouton créé précédement, récupérer les informations du presse-papiers Windows en les collant directement dans l'OTA.</p>
 <h2>Fonctionnalité</h2>
 <p>Lors de la création d'OTA, les résultats de requêtes peuvent être comparés à des valeurs de référence afin de vérifier la non régression de l'applicatif.</p>

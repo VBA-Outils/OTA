@@ -1,4 +1,8 @@
 # OTA
+<h1>Licence</h1>
+<p>Ce projet est distribué sous licence MIT. Consultez le fichier LICENSE pour plus de détails.</p>
+<h1>Prérequis</h1>
+<p>Environnement de développement : Microsoft Visual Basic for Applications (VBA)</p>
 <h1>Reformater le résultat d'une requête pour les OTA</h1>
 <h2>Prérequis</h2>
 <p>Importer le module "PressePapiers.bas" dans le projet VBA afin de pouvoir récupérer les informations du presse-papiers Windows, puis de le mettre-à-jour.</p>

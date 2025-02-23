@@ -16,7 +16,7 @@
 <p>Exécuter la requête de l'OTA dans l'outil de requêtage (Squirrel, Pgadmin, etc), puis sélectionner toutes les valeurs du résultat obtenu. Copier ce résultat dans le presse-papiers, exécuter la macro adéquate, coller dans OTA le nouveau résultat reformatté.</p>
 <h3>Exemple</h3>
 <p>Résultat de la requête</p>
-<table><tr><th>t_ref_cd_departement</th><th>t_ref_lib_departement</th><th>t_ref_nb_hab</th></tr><tr><td>01</td><td>Ain</td><td>352&nbsp;000</td></tr><tr><td>02</td><td>Aisne</td><td>452&nbsp;365</td></tr></table>
+<table><tr><th>t_ref_cd_departement</th><th>t_ref_lib_departement</th><th>t_ref_nb_hab</th></tr><tr><td>01</td><td>Ain</td><td>671&nbsp;289</td></tr><tr><td>02</td><td>Aisne</td><td>525&nbsp;558</td></tr></table>
 <p>Résultat après exécution de la macro</p>
 <p>
 |t_ref_cd_departement|t_ref_lib_departement|t_ref_nb_hab|<br>

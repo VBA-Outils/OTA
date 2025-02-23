@@ -20,6 +20,6 @@
 <p>Résultat après exécution de la macro</p>
 <p>
 |t_ref_cd_departement|t_ref_lib_departement|t_ref_nb_hab|<br>
-|01|Ain|352000|<br>
-|02|Aisne|452365|
+|01|Ain|671289|<br>
+|02|Aisne|525558|
 </p>
